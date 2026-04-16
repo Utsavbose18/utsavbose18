@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋 I'm Utsav.
 
-<!--
-**Utsavbose18/utsavbose18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Bengaluru, specializing in:
+- Python backend / APIs
+- Automation, data extraction, and OCR‑style tools
+- System design and clean, maintainable code
 
-Here are some ideas to get you started:
+🛠️ Tech stack:
+- Python · Java · FastAPI/Django · PostgreSQL · Docker · Git · Postman · MERN stack · MongoDB · PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 How to reach me:
+- LinkedIn: www.linkedin.com/in/utsav-bose-197708298
+- Email: utsavbose88@gmail.com
+- Portfolio/Resume: https://drive.google.com/file/d/1BP6-i9q4ozH9-urTcWBBXesfuG6XQN4c/view?usp=drive_link
