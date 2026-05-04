@@ -2,7 +2,7 @@ Hi 👋 I'm Utsav.
 
 Software Engineer based in Bengaluru, specializing in:
 - Python backend / APIs
-- Automation, data extraction, and OCR‑style tools
+- Automation, data extraction, and OCR‑style tools, Machine Learning, AI
 - System design and clean, maintainable code
 
 🛠️ Tech stack:
